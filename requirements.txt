@@ -1,1 +1,8 @@
 llama-cpp-python
+uvicorn
+anyio
+starlette
+fastapi
+pydantic_settings
+sse_starlette
+starlette_context
