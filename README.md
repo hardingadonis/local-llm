@@ -47,7 +47,6 @@ python server/run_server.py
 
 ## Notes:
 - You can download other models. Just make sure to put them in the `server/models` directory.
-- You can change the name of model in the `server/server.bat` or `server/server.sh` file.
 
 ## Contributors:
 
