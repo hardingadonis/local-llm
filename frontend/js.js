@@ -21,7 +21,7 @@ const chatContainer = document.getElementById('chat-container');
 
 const BOT_ENDPOINT = 'http://localhost:8000/v1';
 
-const messages = [16:37 30/11/2023];
+const messages = [];
 
 function renderMessages() {
     chatContainer.innerHTML = '';
